@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6c1a722-c752-4c4f-8bd4-e5f78bb08fe8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../address/address.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../address/定位.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../address/搜索.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/hermit/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../signing/qq.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../signing/signIn.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../signing/微信.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../signing/微博.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../封面/Hermit图标.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../封面/hermit首页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../封面/启动页面.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../新建页面/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../新建页面/22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../新建页面/hemit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../新建页面/图标111.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../新建页面/底图11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/1.首页素材/1、蜗牛读书/1.11蜗牛读书.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/1.首页素材/1、蜗牛读书/1.12蜗牛读书.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/1.首页素材/1、蜗牛读书/1.13蜗牛读书.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/1.首页素材/1、蜗牛读书/1.14蜗牛读书.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/1.首页素材/1、蜗牛读书/1.1蜗牛读书.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/1.首页素材/1、蜗牛读书/1.2蜗牛读书.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/1.首页素材/1、蜗牛读书/1.3蜗牛读书.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/1.首页素材/1、蜗牛读书/1.4蜗牛读书.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/1.首页素材/1、蜗牛读书/1.5蜗牛读书.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/1.首页素材/1、蜗牛读书/1.6蜗牛读书.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/1.首页素材/1、蜗牛读书/1.蜗牛读书.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/1.首页素材/1、蜗牛读书/蜗牛logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/1.首页素材/1、蜗牛读书/蜗牛图像.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/1.首页素材/2、小波书店/2.书店.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/1.首页素材/2、小波书店/小波书店2.1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/1.首页素材/2、小波书店/小波书店2.2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/1.首页素材/2、小波书店/小波书店2.3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/1.首页素材/2、小波书店/小波书店2.4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/1.首页素材/3、悦览树/3.悦览树.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/1.首页素材/3、悦览树/悦览树.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/1.首页素材/3、悦览树/悦览树3.1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/1.首页素材/3、悦览树/悦览树3.2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/1.首页素材/3、悦览树/悦览树3.3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/1.首页素材/3、悦览树/悦览树3.4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/1.首页素材/3、悦览树/悦览树3.5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/1.首页素材/3、悦览树/悦览树logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/1.首页素材/4.钟书阁/4.1钟书阁.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/1.首页素材/4.钟书阁/4.1钟书阁.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/1.首页素材/4.钟书阁/4.2钟书阁.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/1.首页素材/4.钟书阁/4.3钟书阁.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/1.首页素材/4.钟书阁/4.4钟书阁.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/1.首页素材/4.钟书阁/4.5钟书阁.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/1.首页素材/4.钟书阁/4.6钟书阁.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/1.首页素材/4.钟书阁/4.7钟书阁.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/1.首页素材/sou.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/1.首页素材/wode.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/1.首页素材/xinjian.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/1.首页素材/zhuye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/firstpage/jquery-1.12.4.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../首页/firstpage/首页.html" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hermit/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/hermit/__init__.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/hermit.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="105" />
+    <option name="y" value="43" />
+    <option name="width" value="888" />
+    <option name="height" value="519" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hermit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hermit" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6c1a722-c752-4c4f-8bd4-e5f78bb08fe8" name="Default Changelist" comment="" />
+      <created>1560157875856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560157875856</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="105" y="43" width="888" height="519" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24970964" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hermit/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
