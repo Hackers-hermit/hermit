@@ -1,0 +1,146 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        body{
+            background: #F5F5F5;
+            padding: 0;
+            margin: 0;
+        }
+        .screen{
+            margin: 70px 0 0;
+            background: rgb(201,201,206);
+            font-size: 50px;
+            overflow: hidden;
+            padding: 15px;
+        }
+        .ioc{
+            height: 100px;
+            padding: 0 50px;
+            color: white ;
+        }
+        #a{
+            float: left;
+            line-height: 100px ;
+        }
+        #b{
+            float: right;
+            line-height: 100px ;
+        }
+        .title{
+            margin-top: 10px;
+            padding: 10px;
+        }
+        .title1{
+            margin: 0 auto;
+            font-size: 40px;
+            width: 98%;
+            height: 100px;
+            line-height: 20px;
+            padding: 10px;
+            background: white;
+            border: 1px solid white;
+        }
+        .intro{
+            margin-top: 10px;
+            padding: 10px;
+        }
+        .intro1{
+            margin: 0 auto;
+            font-size: 40px;
+            width: 98%;
+            height: 230px;
+            line-height: 20px;
+            padding: 10px;
+            background: white;
+            border: 1px solid white;
+        }
+        .picture{
+            height: 240px;
+            width: auto;
+            padding: 30px;
+        }
+        #tu1{
+            margin-left: 100px;
+            float: left;
+        }
+        #tu2{
+            margin-right: 100px;
+            float: right;
+        }
+        .information{
+            margin: 0 auto;
+            width: 90%;
+            /*height: 450px;*/
+            background: white;
+            padding: 30px 40px 10px;
+        }
+        #tubiao{
+             display: inline-block;
+        }
+
+        .message{
+            display: inline-block;
+            width: 60%;
+            /*height: 400px;*/
+            /*background: #1DCCEB;*/
+            padding: 20px;
+        }
+        .dianji{
+            float: left;
+            width: 350px;
+            height: 50px;
+            font-size: 40px;
+            border: 1px solid #1E1E1F;
+            padding: 5px;
+        }
+        .judge{
+            float: left;
+            font-size: 40px;
+        }
+        .mean1{
+            width: 250px;
+            height: 50px;
+            font-size: 40px;
+            border: 1px solid #1E1E1F;
+            padding: 5px;
+        }
+        .mean{
+            margin-left: 90px;
+            font-size: 40px;
+        }
+        .bottom{
+            margin: 30px 10px;
+        }
+        a{
+            text-decoration:none;
+            color: white;
+        }
+
+
+    </style>
+</head>
+<body>
+<div class="screen">
+    <div class="ioc"><span id = 'a'><a href="..\..\hermit\首页\firstpage\首页.html">返回</a></span><span id = 'b'>发布</span></div>
+    <div class="title"><input class="title1" placeholder="给您的推荐地点起一个拉风的标题吧"/></div>
+    <div class="intro"><input type="text" style='padding:8px 6px;' class="intro1" placeholder="写一段简介来介绍一下这个推荐地点吧。"/></div>
+    <div class="picture"><img id= 'tu1'src="11.png"><img id= 'tu2' src="22.png"></div>
+    <div class="information">
+        <div id ='tubiao'><img src = "图标111.png"></div>
+        <div class="message">
+            <input class="dianji" placeholder="点击选择地点"><br>
+            <div class="judge">是&nbsp;&nbsp;&nbsp;&nbsp;否</div><br>
+            <input class="dianji" placeholder="请打分"><br><br>
+            <input class="dianji" placeholder="请打分"><br>
+            <input class="dianji" placeholder="请打分"><br>
+        </div>
+        <div class="mean">人均消费<input class="mean1" placeholder="人均消费">元/人</div>
+    </div>
+    <div class="bottom"><img src="底图11.png"></div>
+    <div class="title"><input class="title1" placeholder="说点什么..."/></div>
+</div>
+</body>
+</html>

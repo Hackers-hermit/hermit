@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <meta name="viewport" content="width=device-width,inital-scale=1.0,minimum-scale=0.5,maximum-scale=2.0,user-scalable=no">
+    <script src='jquery-1.12.4.min.js'></script>
+    <script>
+    $(function(){
+        var img=$('.simpleline img');
+        img.height($('.simpleline').height()-10);
+        img.width($('.simpleline').height()-10);
+    })
+    </script>
+    <style>
+    *{
+        margin:0;
+        padding:0;
+    }
+    a{
+        text-decoration:none;
+        color:black;
+    }
+    #frame{
+        width: 380px;
+        margin:0 auto;
+        border:0;
+        overflow: hidden;
+    }
+    #topline{
+        height: 43px;
+        background: rgb(211,211,215);
+        overflow: hidden;
+    }
+    #site{
+        line-height: 43px;
+        margin-left:20px;
+        color:black;
+        float:left;
+    }
+    #input{
+        background: white;
+        width:282px;
+        float:right;
+        margin:7px 15px;
+        height: 29px;
+        border-radius: 20px;
+    }
+    #input input{
+        width:230px;
+        line-height: 29px;
+        height: 29px;
+        border:none;
+        background: none;
+        outline:none;
+        float:right;
+        margin:0 10px;
+    }
+    #input img{
+        margin:4px 0 4px 6px;
+    }
+    #imgline{
+        height: 177px;
+        overflow: hidden;
+    }
+    #sortline{
+        height: 42px;
+        background: white;
+        border:1px solid gray;
+    }
+    #sortline select{
+        border:none;
+        outline:none;
+        width:53px;
+        height: 42px;
+        margin:auto 17px;
+        font-size: 16px;
+        line-height: 42px;
+    }
+    #sortline select option{
+        font-size:10px;
+    }
+    #introduce{
+        overflow: hidden;
+        font-size:12px;
+    }
+    .simpleline{
+        border-bottom: 1px solid gray;
+        padding-right:10px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .simpleline span{
+        margin-right:30px;
+        float:right;
+    }
+    .simpleline img{
+        margin:5px 4px 5px 0px;
+        float:left;
+    }
+    #bottomline{
+        height: 50px;
+        width:100%;
+        max-width:380px;
+        position:fixed;
+        background: rgb(248,248,248);
+        z-index:40;
+        bottom:0px;
+        text-align: center;
+    }
+    #botleft{
+        float:left;
+        display: inline-block;
+        text-align: center;
+    }
+    #botcenter{
+        margin:0 auto;
+        display: inline-block;
+        text-align: center;
+    }
+    #botright{
+        display: inline-block;
+        float:right;
+        text-align: center;
+    }
+
+    </style>
+</head>
+<body>
+    <div id='frame'>
+        <div id='topline'>
+            <a href='..\..\address\address.html'><span id='site'>杭州ｖ</span></a>
+            <span id='input'><img src='../1.首页素材/sou.png'><input type='text' name='place'></span>
+        </div>
+        <div id='imgline'><img src='..\1.首页素材\1、蜗牛读书\1.12蜗牛读书.jpg' width="380px" height="253px"></div>
+        <div id='sortline'>
+            <a href='#'>
+            <span>
+                <select>
+                    <option>类型</option>
+                    <option>书店</option>
+                    <option>咖啡店</option>
+                    <option>图书馆</option>
+                </select>
+            </span>
+            <span>
+                <select>
+                    <option>评分</option>
+                    <option>从低到高</option>
+                    <option>从高到低</option>
+                </select>
+            </span>
+            <span>
+                <select>
+                    <option>距离</option>
+                    <option>从近到远</option>
+                    <option>从远到近</option>
+                </select>
+            </span>
+            <span>
+                <select>
+                    <option>消费</option>
+                    <option>从少到多</option>
+                    <option>从多到少</option>
+                </select>
+            </span></a>
+        </div>
+        <div id='introduce'>
+            <a href='#'>
+            <div class='simpleline'>
+                <img src='..\1.首页素材\1、蜗牛读书\蜗牛logo.jpg' width="80px" height="80px">
+                <h4>网易蜗牛读书馆</h4>
+                <p style='display: inline;'>杭州高新区</p><span>9.8km</span>
+                <p>整体评分：10分</p>
+                <P>￥0/人</P>
+                <p>简介：读书馆附近的公园、社区、学校和企业将实现网易蜗牛读书APP不显示免费畅读......</p>
+            </div></a>
+            <a href='#'>
+            <div class='simpleline'>
+                <img src='..\1.首页素材\2、小波书店\2.书店.png' width="80px" height="80px">
+                <h4>王小波书店</h4>
+                <p style='display: inline;'>滨江区钱塘江畔</p><span>9.5km</span>
+                <p>整体评分：9.0分</p>
+                <P>￥0/人</P>
+                <p>简介：书店面积并不算大，大概100平方米左右。老板专门在左侧暑假设立了一栏“王......</p>
+            </div></a>
+            <div class='simpleline'>
+                <img src='..\1.首页素材\3、悦览树\悦览树logo.png' width="80px" height="80px">
+                <h4>悦览树</h4>
+                <p style='display: inline;'>青年路31号</p><span>23.4km</span>
+                <p>整体评分：8.0分</p>
+                <P>￥30/人</P>
+                <p>简介：悦览树提供更加优质的服务和24小时营业的特点，开放式的消费和更加人性......</p>
+            </div>
+            <a href='#'>
+            <div class='simpleline'>
+                <img src='..\1.首页素材\4.钟书阁\4.4钟书阁.jpg' width="80px" height="80px">
+                <h4>钟书阁</h4>
+                <p style='display: inline;'>滨江区江南大道228号</p><span>5.5km</span>
+                <p>整体评分：9.0分</p>
+                <P>￥0/人</P>
+                <p>简介：透明的建筑风格，令人眼花缭乱的数，还有各种特色的你想象不到的设计，你......</p>
+            </div></a>
+            <div style='height: 50px;'>
+            </div>
+        </div>
+        <div id='bottomline'>
+            <a href='#'>
+            <div id='botleft'>
+                <img src='..\1.首页素材\zhuye.png' width="25px" height="25px">
+                <p>主页</p>
+            </div></a>
+            <a href='..\..\新建页面\hemit.html'>
+            <div id='botcenter'>
+                <img src='..\1.首页素材\xinjian.png' width="25px" height="25px">
+                <p>新建</p>>
+            </div></a>
+            <a href='..\..\signing\signIn.html'>
+            <div id='botright'>
+                <img src='..\1.首页素材\wode.png' width="25px" height="25px">
+                <p>我的</p>
+            </div></a>
+
+        </div>
+
+    </div>
+</body>
+</html>
