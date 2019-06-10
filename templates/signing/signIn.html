@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>我的</title>
+    <title>登录</title>
 
     <style>
         *{
@@ -16,6 +16,11 @@
             width: 100%;
             overflow: hidden;
             /*background: #c4dce8;*/
+        }
+        .bangs{
+            width: 100%;
+            height: 100px;
+            background: #F8F8F8;
         }
         .title{
             font-size: 65px;
@@ -62,8 +67,10 @@
         }
         .exit{
             font-size: 50px;
+            text-decoration: none;
+            color: black;
             position: absolute;
-            top: 50px;
+            top: 120px;
             left: 50px;
         }
         /*上半部 end*/
@@ -101,12 +108,13 @@
 <body>
 
 <div class="signin">
+    <div class="bangs"></div>
     <div class="title">登录</div>
-    <input class="telInput" placeholder="请输入11位手机号">
-    <input class="idCode" placeholder="输入收到的验证码"><button
+    <input class="telInput" placeholder=" 请输入11位手机号">
+    <input class="idCode" placeholder=" 输入收到的验证码"><button
         class="idCodeButton">验证码</button>
     <div class="singinButton">登录</div>
-    <div class="exit">X</div>
+    <a href="../首页/firstpage/首页.html" class="exit">×</a>
 </div>
 <div class="othersign">
     <div class="otherWay">———其它登入方式———</div>
