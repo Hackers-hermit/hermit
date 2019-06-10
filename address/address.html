@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>我的所在地</title>
+
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+            font-family: "Microsoft YaHei UI";
+        }
+        .bangs {
+            width: 100%;
+            height: 100px;
+            background: #F8F8F8;
+        }
+        .searchFrame{
+            width: 100%;
+            height: 130px;
+            background: #CCD7D7;
+            text-align: center;
+            line-height: 120px;
+        }
+        .exit{
+            font-size: 50px;
+            text-decoration: none;
+            color: #555;
+            position: absolute;
+            top: 100px;
+            left: 2%;
+        }
+        .search{
+            width: 80%;
+            height: 100px;
+            display: inline-block;
+            border-radius: 50px;
+            border: none;
+            margin-top: 15px;
+            background: white;
+        }
+        .input{
+            width: 80%;
+            height: 100px;
+            font-size: 40px;
+            /*text-align: center;*/
+            border: none;
+            float: right;
+            margin-right: 8%;
+            outline: none;
+        }
+        .searchImg{
+            margin-left: 2%;
+            margin-top: 3%;
+            float: left;
+        }
+        .gpsImg{
+            position: absolute;
+            margin-top: 4%;
+            right: 2%;
+        }
+
+        .gpscity{
+            width: 100%;
+            height: 90px;
+            font-size: 40px;
+            background: #F4F4F4;
+            line-height: 90px;
+            padding-left: 10%;
+            box-sizing: border-box;
+        }
+        .nowcity{
+            width: 100%;
+            height: 120px;
+            font-size: 42px;
+            padding-left: 10%;
+            box-sizing: border-box;
+        }
+        .city{
+            border: solid 1px;
+            border-radius: 5px;
+            display: inline-block;
+            height: 90px;
+            width: 120px;
+            text-align: center;
+            line-height: 90px;
+            margin-top: 15px;
+            margin-left: 15px;
+        }
+        .hotcityTitle{
+            width: 100%;
+            height: 80px;
+            background: #CCD7D7;
+            font-size: 40px;
+            line-height: 80px;
+            padding-left: 10%;
+            border-top: solid 1px #666;
+            border-bottom: solid 1px #666;
+            box-sizing: border-box;
+        }
+        .hotcity{
+            width: 100%;
+            height: 230px;
+            font-size: 42px;
+            padding-left: 10%;
+            padding-right: 10%;
+            box-sizing: border-box;
+        }
+
+        .A{
+            width: 100%;
+            height: 90px;
+            font-size: 40px;
+            background: #DDEDED;
+            line-height: 90px;
+            padding-left: 2%;
+            border-top: solid 1px #999;
+            border-bottom: solid 1px #999;
+            box-sizing: border-box;
+        }
+        .othercity{
+            height: 90px;
+            width: 100%;
+            font-size: 42px;
+            border-bottom: solid 1px #666;
+            line-height: 90px;
+            margin-top: 15px;
+            padding-left: 3%;
+            box-sizing: border-box;
+        }
+
+
+    </style>
+
+</head>
+<body>
+
+<div class="bangs"></div>
+<div class="searchFrame">
+    <a href="../首页/firstpage/首页.html" class="exit"><</a>
+    <div class="search">
+        <input class="input" placeholder="             输入城市/拼音">
+        <img src="搜索.png" class="searchImg">
+    </div>
+    <img src="定位.png" class="gpsImg">
+</div>
+<div class="gpscity">定位城市</div>
+<div class="nowcity"><div class="city">杭州</div></div>
+<div class="hotcityTitle">热门城市</div>
+<div class="hotcity">
+    <div class="city">北京</div>
+    <div class="city">上海</div>
+    <div class="city">广州</div>
+    <div class="city">深圳</div>
+    <div class="city">杭州</div>
+    <div class="city">重庆</div>
+    <div class="city">长沙</div>
+    <div class="city">西安</div>
+    <div class="city">南京</div>
+    <div class="city">成都</div>
+</div>
+<div class="A">A</div>
+<div class="othercity">鞍山</div>
+<div class="othercity">安阳</div>
+<div class="othercity">安康</div>
+<div class="othercity">安丘</div>
+<div class="othercity">安庆</div>
+<div class="othercity">安顺</div>
+<div class="othercity">阿城区</div>
+<div class="othercity">阿克苏</div>
+
+
+</body>
+</html>
